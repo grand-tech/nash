@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/nash/static/css/main.08014d8b.css",
+    "main.js": "/nash/static/js/main.d0de5602.js",
+    "static/media/slanted.svg": "/nash/static/media/slanted.8ff86f46307197136002db55b1863d67.svg",
+    "static/media/iPhone13.svg": "/nash/static/media/iPhone13.189c585b5478e9f6c2237eca70663f2f.svg",
+    "static/media/banking.svg": "/nash/static/media/banking.5b43db5b09ede5af12f02d6c29851756.svg",
+    "static/media/on_ramp.svg": "/nash/static/media/on_ramp.1483b4659128b40be63cc363416ef056.svg",
+    "static/media/online_payment.svg": "/nash/static/media/online_payment.eee48c9cd35db0f788bd757f5f57676b.svg",
+    "static/media/p2p.svg": "/nash/static/media/p2p.28d8befcdb8048026a3f33cf6b9d243f.svg",
+    "static/media/savings.svg": "/nash/static/media/savings.f0c20b257b727a6491f87c24021c3ef6.svg",
+    "static/media/Logo.svg": "/nash/static/media/Logo.f7e2751f945a18c905b97357b31568dc.svg",
+    "static/media/instagram.svg": "/nash/static/media/instagram.a6206a7b0da53381d90543d8008268e4.svg",
+    "static/media/linkedin.svg": "/nash/static/media/linkedin.58d58905d2126161d76dfedc1c4bfb82.svg",
+    "static/media/slick.svg": "/nash/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/nash/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/nash/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/nash/static/media/slick.295183786cd8a1389865.woff",
+    "static/media/sidebar.svg": "/nash/static/media/sidebar.b6463fe723e9bcd5fa322edf3a4a683c.svg",
+    "static/media/copyright_light.svg": "/nash/static/media/copyright_light.f697c3f4b5882b289cce71ebac4eac0c.svg",
+    "static/media/facebook.svg": "/nash/static/media/facebook.01695c8d9f03aa7196540271cb3a9764.svg",
+    "static/media/copyrigh_dark.svg": "/nash/static/media/copyrigh_dark.c5e4abb3114ec45ca0513302921ff548.svg",
+    "index.html": "/nash/index.html",
+    "static/media/play.svg": "/nash/static/media/play.5b344f611a189f526524d6ea97119b2d.svg",
+    "main.08014d8b.css.map": "/nash/static/css/main.08014d8b.css.map",
+    "main.d0de5602.js.map": "/nash/static/js/main.d0de5602.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08014d8b.css",
+    "static/js/main.d0de5602.js"
+  ]
+}
